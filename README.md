@@ -36,10 +36,11 @@ The player competes against the computer, and the winner is determined based on 
 
 If both selections are the same, the round results in a **draw**.
 
-
-
-
 ---
+## Game Screenshot
+
+![Rock Paper Scissors Game](images/workingimg.png)
+
 
 ## 📂 Project Structure
 
