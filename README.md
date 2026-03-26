@@ -80,7 +80,7 @@ git clone https://github.com/yourusername/rock-paper-scissors.git
 
 ## 👨‍💻 Author
 
-**Deep**
+**Deepak**
 AI & Machine Learning Student
 
 ---
